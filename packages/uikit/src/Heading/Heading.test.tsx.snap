@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading should render a text body 1`] = `
+<h1
+  class="sc-bdfBQB juIlDX"
+>
+  Heading
+</h1>
+`;
+
+exports[`Heading should render a text display 1`] = `
+<h1
+  class="sc-bdfBQB ekhnXy"
+>
+  Heading
+</h1>
+`;
+
+exports[`Heading should render a text headline 1`] = `
+<h1
+  class="sc-bdfBQB jThsMR"
+>
+  Heading
+</h1>
+`;
+
+exports[`Heading should render a text small 1`] = `
+<h1
+  class="sc-bdfBQB dEUoSM"
+>
+  Heading
+</h1>
+`;
+
+exports[`Heading should render a text subheader 1`] = `
+<h1
+  class="sc-bdfBQB frtOOl"
+>
+  Heading
+</h1>
+`;
+
+exports[`Heading should render a text title 1`] = `
+<h1
+  class="sc-bdfBQB gJxtUI"
+>
+  Heading
+</h1>
+`;
+
+exports[`Heading should render correctly 1`] = `
+<h1
+  class="sc-bdfBQB ekhnXy"
+>
+  Heading
+</h1>
+`;

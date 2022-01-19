@@ -1,0 +1,15 @@
+**/node_modules
+
+**/dist
+**/out_functions/
+**/out_publish/
+.vscode
+
+**/storybook-static
+**/build-storybook.log
+
+.DS_Store
+
+coverage
+
+.env

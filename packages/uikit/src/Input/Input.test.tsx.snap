@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input Should render a input error variant 1`] = `
+<input
+  class="sc-gsTEea dIyyZv"
+  placeholder="Text content for input"
+/>
+`;
+
+exports[`Input Should render the component 1`] = `
+<input
+  class="sc-gsTEea dIyyZv"
+  data-testid="input"
+  placeholder="Text content for input"
+/>
+`;
+
+exports[`Input can have focus 1`] = `
+<input
+  class="sc-gsTEea dIyyZv"
+  placeholder="Text content for input"
+/>
+`;

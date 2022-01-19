@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Register should render correctly 1`] = `
+<div
+  class="styles__Background-sc-f3t2w6-2 A-dCpB"
+  data-testid="home"
+>
+  <div
+    style="box-sizing: border-box; position: relative; margin-left: auto; margin-right: auto; padding-left: 15px; padding-right: 15px; max-width: 960px;"
+  >
+    <div
+      style="margin-left: -15px; margin-right: -15px; display: flex; flex-wrap: wrap; flex-grow: 0; flex-shrink: 0; align-items: normal; justify-content: flex-start; flex-direction: row;"
+    >
+      <div
+        style="box-sizing: border-box; min-height: 1px; position: relative; padding-left: 15px; padding-right: 15px; width: 50%; flex-basis: 50%; flex-grow: 0; flex-shrink: 0; max-width: 50%; margin-left: 0%;"
+      >
+        <img
+          alt="Correta.app"
+          class="styles__Logo-sc-f3t2w6-0 knMKKh"
+          src="/images/logo.png"
+        />
+        <h1
+          class="sc-gKAaRy kbUCYm styles__StyledHeading-sc-f3t2w6-1 hlOYuk"
+        >
+          Cadastre-se gratuitamente
+        </h1>
+        <form>
+          <div
+            class="sc-hKFxyN zFDVE"
+          >
+            <label
+              class="sc-eCApnc CDjog"
+            >
+              Nome:
+            </label>
+            <input
+              class="sc-iCoGMd kmeLFP"
+              name="name"
+              placeholder="Seu Nome"
+              value=""
+            />
+          </div>
+          <div
+            class="sc-hKFxyN zFDVE"
+          >
+            <label
+              class="sc-eCApnc CDjog"
+            >
+              E-mail:
+            </label>
+            <input
+              class="sc-iCoGMd kmeLFP"
+              name="email"
+              placeholder="seu@email.com"
+              value=""
+            />
+          </div>
+          <div
+            class="sc-hKFxyN zFDVE"
+          >
+            <label
+              class="sc-eCApnc CDjog"
+            >
+              Senha:
+            </label>
+            <input
+              class="sc-iCoGMd kmeLFP"
+              data-testid="password-input"
+              name="password"
+              placeholder="password"
+              type="password"
+              value=""
+            />
+          </div>
+          <div
+            class="sc-hKFxyN zFDVE"
+          >
+            <label
+              class="sc-eCApnc CDjog"
+            >
+              Repetir Senha:
+            </label>
+            <input
+              class="sc-iCoGMd kmeLFP"
+              data-testid="repeat-password-input"
+              name="repeatPassword"
+              placeholder="password"
+              type="password"
+              value=""
+            />
+          </div>
+          <div
+            class="styles__RegisterContainer-sc-f3t2w6-5 cRgEQs"
+          >
+            <button
+              class="sc-gtsrHT kGzhap"
+              data-testid="register-button"
+              type="submit"
+            >
+              Cadastrar
+            </button>
+          </div>
+          <div
+            class="styles__LoginContainer-sc-f3t2w6-6 kNfMlu"
+          >
+            <p
+              class="sc-iemWCZ eTebHM"
+            >
+              Já tem cadastro?
+            </p>
+            <button
+              class="sc-gtsrHT gBmKmV"
+            >
+              Fazer Login
+            </button>
+          </div>
+        </form>
+      </div>
+      <div
+        class="styles__ContentCol-sc-f3t2w6-3 gtvXPC"
+        style="box-sizing: border-box; min-height: 1px; position: relative; padding-left: 15px; padding-right: 15px; width: 50%; flex-basis: 50%; flex-grow: 0; flex-shrink: 0; max-width: 50%; margin-left: 0%;"
+      >
+        <div
+          class="styles__ContentContainer-sc-f3t2w6-4 jTaLgu"
+        >
+          <img
+            alt="Correta.app"
+            src="/images/home.png"
+          />
+          <span>
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 448 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+              />
+            </svg>
+            <h1
+              class="sc-gKAaRy eeYKHx"
+            >
+              facilidade
+            </h1>
+          </span>
+          <span>
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 448 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+              />
+            </svg>
+            <h1
+              class="sc-gKAaRy eeYKHx"
+            >
+              resultados
+            </h1>
+          </span>
+          <p
+            class="sc-iemWCZ bCVkDu"
+          >
+            Tenha acesso e controle de seus cliente, melhorando seu processo de vendas e gerando mais resultados.
+          </p>
+        </div>
+      </div>
+    </div>
+    <span
+      style="display: table; clear: both;"
+    />
+  </div>
+</div>
+`;

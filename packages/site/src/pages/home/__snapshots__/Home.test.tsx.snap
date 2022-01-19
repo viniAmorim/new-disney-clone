@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should render correctly 1`] = `
+<div
+  class="styles__Background-sc-ckx671-2 jIWJlP"
+  data-testid="home"
+>
+  <div
+    style="box-sizing: border-box; position: relative; margin-left: auto; margin-right: auto; padding-left: 15px; padding-right: 15px; max-width: 960px;"
+  >
+    <div
+      style="margin-left: -15px; margin-right: -15px; display: flex; flex-wrap: wrap; flex-grow: 0; flex-shrink: 0; align-items: normal; justify-content: flex-start; flex-direction: row;"
+    >
+      <div
+        style="box-sizing: border-box; min-height: 1px; position: relative; padding-left: 15px; padding-right: 15px; width: 50%; flex-basis: 50%; flex-grow: 0; flex-shrink: 0; max-width: 50%; margin-left: 0%;"
+      >
+        <img
+          alt="Correta.app"
+          class="styles__Logo-sc-ckx671-0 iHUYHr"
+          src="/images/logo.png"
+        />
+        <h1
+          class="sc-gKAaRy kbUCYm styles__StyledHeading-sc-ckx671-1 dCoeDK"
+        >
+          Entrar
+        </h1>
+        <form>
+          <div
+            class="sc-hKFxyN zFDVE"
+          >
+            <label
+              class="sc-eCApnc CDjog"
+            >
+              E-mail:
+            </label>
+            <input
+              class="sc-iCoGMd kmeLFP"
+              name="email"
+              placeholder="seu@email.com"
+              value=""
+            />
+          </div>
+          <div
+            class="sc-hKFxyN zFDVE"
+          >
+            <label
+              class="sc-eCApnc CDjog"
+            >
+              Senha:
+            </label>
+            <input
+              class="sc-iCoGMd kmeLFP"
+              data-testid="password-input"
+              name="password"
+              placeholder="senha"
+              type="password"
+              value=""
+            />
+          </div>
+          <div
+            class="styles__ForgotPasswordContainer-sc-ckx671-5 hkWuNd"
+          >
+            <a
+              class="sc-pNWdM iFoZxv"
+            >
+              Esqueci minha senha
+            </a>
+            <button
+              class="sc-gtsrHT kGzhap"
+              data-testid="login-button"
+              type="submit"
+            >
+              Entrar
+            </button>
+          </div>
+          <div
+            class="styles__RegisterContainer-sc-ckx671-6 fYjycG"
+          >
+            <p
+              class="sc-iemWCZ eTebHM"
+            >
+              Ainda não tem cadastro?
+            </p>
+            <button
+              class="sc-gtsrHT gBmKmV"
+            >
+              Cadastre-se gratuitamente
+            </button>
+          </div>
+        </form>
+      </div>
+      <div
+        class="styles__ContentCol-sc-ckx671-3 eNHZgk"
+        style="box-sizing: border-box; min-height: 1px; position: relative; padding-left: 15px; padding-right: 15px; width: 50%; flex-basis: 50%; flex-grow: 0; flex-shrink: 0; max-width: 50%; margin-left: 0%;"
+      >
+        <div
+          class="styles__ContentContainer-sc-ckx671-4 iIMLuo"
+        >
+          <img
+            alt="Correta.app"
+            src="/images/home.png"
+          />
+          <span>
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 448 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+              />
+            </svg>
+            <h1
+              class="sc-gKAaRy eeYKHx"
+            >
+              facilidade
+            </h1>
+          </span>
+          <span>
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 448 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M416 208H272V64c0-17.67-14.33-32-32-32h-32c-17.67 0-32 14.33-32 32v144H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h144v144c0 17.67 14.33 32 32 32h32c17.67 0 32-14.33 32-32V304h144c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"
+              />
+            </svg>
+            <h1
+              class="sc-gKAaRy eeYKHx"
+            >
+              resultados
+            </h1>
+          </span>
+          <p
+            class="sc-iemWCZ bCVkDu"
+          >
+            Tenha acesso e controle de seus cliente, melhorando seu processo de vendas e gerando mais resultados.
+          </p>
+        </div>
+      </div>
+    </div>
+    <span
+      style="display: table; clear: both;"
+    />
+  </div>
+</div>
+`;

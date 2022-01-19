@@ -1,0 +1,100 @@
+{
+  "colors": {
+    "blue-300": "#35b1ff",
+    "blue-400": "#5BE1FF",
+    "success": "#2CD36F",
+    "error": "#DE4C4C",
+    "white": "#fdfdfd",
+    "blue-200": "#0458f2",
+    "blue-100": "#1b1564",
+    "gray-100": "#323232",
+    "gray-400": "#e8e8e8",
+    "gray-500": "#f8f8f8"
+  },
+  "typography": {
+    "body-heavy": {
+      "fontFamily": "Inter",
+      "fontWeight": 700,
+      "fontSize": "0.875rem",
+      "lineHeight": "1.4285714285714286em",
+      "letterSpacing": "0em"
+    },
+    "subheader-heavy": {
+      "fontFamily": "Inter",
+      "fontWeight": 700,
+      "fontSize": "1rem",
+      "lineHeight": "1.5em",
+      "letterSpacing": "0em"
+    },
+    "subheader-light": {
+      "fontFamily": "Inter",
+      "fontWeight": 300,
+      "fontSize": "1rem",
+      "lineHeight": "1.5em",
+      "letterSpacing": "0em"
+    },
+    "body-default": {
+      "fontFamily": "Inter",
+      "fontWeight": 300,
+      "fontSize": "0.875rem",
+      "lineHeight": "1.4285714285714286em",
+      "letterSpacing": "0em"
+    },
+    "small-light": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": "0.75rem",
+      "lineHeight": "1.3333333333333333em",
+      "letterSpacing": "0em"
+    },
+    "small-heavy": {
+      "fontFamily": "Inter",
+      "fontWeight": 700,
+      "fontSize": "0.75rem",
+      "lineHeight": "1.3333333333333333em",
+      "letterSpacing": "0em"
+    },
+    "title-light": {
+      "fontFamily": "Inter",
+      "fontWeight": 300,
+      "fontSize": "1.25rem",
+      "lineHeight": "1.4em",
+      "letterSpacing": "0em"
+    },
+    "title-heavy": {
+      "fontFamily": "Inter",
+      "fontWeight": 700,
+      "fontSize": "1.25rem",
+      "lineHeight": "1.4em",
+      "letterSpacing": "0em"
+    },
+    "headline-light": {
+      "fontFamily": "Inter",
+      "fontWeight": 300,
+      "fontSize": "1.5rem",
+      "lineHeight": "1.3333333333333333em",
+      "letterSpacing": "0em"
+    },
+    "headline-heavy": {
+      "fontFamily": "Inter",
+      "fontWeight": 700,
+      "fontSize": "1.5rem",
+      "lineHeight": "1.3333333333333333em",
+      "letterSpacing": "0em"
+    },
+    "display-light": {
+      "fontFamily": "Inter",
+      "fontWeight": 300,
+      "fontSize": "2.25rem",
+      "lineHeight": "1.3333333333333333em",
+      "letterSpacing": "0em"
+    },
+    "display-heavy": {
+      "fontFamily": "Inter",
+      "fontWeight": 700,
+      "fontSize": "2.25rem",
+      "lineHeight": "1.3333333333333333em",
+      "letterSpacing": "0em"
+    }
+  }
+}

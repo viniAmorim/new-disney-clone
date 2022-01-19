@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Paragraph should render a text body 1`] = `
+<p
+  class="sc-bdfBQB fElQMP"
+>
+  Paragraph
+</p>
+`;
+
+exports[`Paragraph should render a text display 1`] = `
+<p
+  class="sc-bdfBQB tKTgq"
+>
+  Paragraph
+</p>
+`;
+
+exports[`Paragraph should render a text headline 1`] = `
+<p
+  class="sc-bdfBQB cuiefd"
+>
+  Paragraph
+</p>
+`;
+
+exports[`Paragraph should render a text small 1`] = `
+<p
+  class="sc-bdfBQB eWtOrH"
+>
+  Paragraph
+</p>
+`;
+
+exports[`Paragraph should render a text subheader 1`] = `
+<p
+  class="sc-bdfBQB jhQjFt"
+>
+  Paragraph
+</p>
+`;
+
+exports[`Paragraph should render a text title 1`] = `
+<p
+  class="sc-bdfBQB kzTOLQ"
+>
+  Paragraph
+</p>
+`;
+
+exports[`Paragraph should render correctly 1`] = `
+<p
+  class="sc-bdfBQB tKTgq"
+>
+  Paragraph
+</p>
+`;
