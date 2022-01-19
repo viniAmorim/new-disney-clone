@@ -1,4 +1,4 @@
-# Corret App Site
+# New Disney Clone App Site
 
 After clone the project, you should:
 
