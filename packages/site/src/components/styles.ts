@@ -7,4 +7,5 @@ export const Content = styled.div`
 
 export const Container = styled.div`
   padding-top: 32px;
+  background-color: #13151f;
 `;

@@ -22,15 +22,10 @@ const Layout = ({ children }: LayoutProps) => {
             active: router.pathname === '/dashboard',
           },
           {
-            label: 'Clientes',
-            link: '/customer',
-            active: router.pathname === '/customer',
-          },
-          {
-            label: 'Orçamento',
-            link: '/comunicacao',
-            active: router.pathname === '/comunicacao',
-          },
+            label: 'Perfil',
+            link: '/perfil',
+            active: router.pathname === '/perfil',
+          },  
         ]}
       />
       <Styled.Container>{children}</Styled.Container>

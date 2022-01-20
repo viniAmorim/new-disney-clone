@@ -22,7 +22,7 @@ const Navbar = ({ items, ...rest }: NavbarProps) => {
       <Container>
         <Row align="center">
           <Col>
-            <Styled.Logo src={require("./disney-plus-logo-1.png")} />
+            <Styled.StyledLogo />
           </Col>
           <Col>
             <Styled.Menu>
@@ -33,7 +33,7 @@ const Navbar = ({ items, ...rest }: NavbarProps) => {
                   </Styled.Link>
                 </Styled.Item>
               ))}
-              <Styled.Avatar src={require("./avatar.jpg")} />
+              <Styled.Avatar />
             </Styled.Menu>
           </Col>
         </Row>

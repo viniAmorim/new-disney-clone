@@ -1,10 +1,8 @@
 import styled from 'styled-components';
 
-export const Logo = styled.img`
-  width: 150px;
-  height: 80px;
-  padding: 0px;
-`;
+import Logo from './Logo';
+
+export const StyledLogo = styled(Logo)``;
 
 export const Container = styled.div`
   background-color: #13151f;
