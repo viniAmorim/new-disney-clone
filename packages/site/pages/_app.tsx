@@ -24,6 +24,18 @@ const GlobalStyle = createGlobalStyle`
   html, body, #__next {
     height: 100%;
   }
+
+  .background {
+    background: #1e2841;
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+    background-attachment: fixed;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
 `;
 
 function MyApp({ Component, pageProps }: AppProps) {
@@ -31,7 +43,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <ThemeProvider theme={theme}>
       <ToastProvider components={{ Toast: Alert }}>
         <Head>
-          <title>Correta.app</title>
+          <title>Disney +</title>
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
             href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap"

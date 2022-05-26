@@ -2,18 +2,18 @@ import React from 'react';
 
 import { Story, Meta } from '@storybook/react';
 
-import Card, { CardProps } from '~/Card';
+import CategoryCard, { CategoryCardProps } from '~/CategoryCard';
 
 export default {
-  title: 'Layout/Card',
-  component: Card,
+  title: 'Layout/CategoryCard',
+  component: CategoryCard,
 } as Meta;
 
-const Template: Story<CardProps> = (args) => <Card {...args} />;
+const Template: Story<CategoryCardProps> = (args) => <CategoryCard {...args} />;
 
 export const Pixar = Template.bind({});
 Pixar.args = {
- src: 'http://localhost:3000/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpixar.7e1aa55f.png&w=1920&q=75'
+ src: 'https://external-preview.redd.it/hVHq5-zVIg1nzniCzYJ92Df3wsdLpIgPMNAqIef-aLg.png?auto=webp&s=d249ee045be075b4f78a94a62dcb54ee33c01605'
 };
 
 export const DisneyPlus = Template.bind({});
