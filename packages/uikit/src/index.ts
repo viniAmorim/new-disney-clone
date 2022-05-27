@@ -12,3 +12,5 @@ export { default as Pagination } from './Pagination';
 export { default as Paragraph } from './Paragraph';
 export { default as Select } from './Select';
 export { default as Tab } from './Tab';
+export { default as BannerSlider } from './BannerSlider';
+export { default as Profile } from './Profile';
